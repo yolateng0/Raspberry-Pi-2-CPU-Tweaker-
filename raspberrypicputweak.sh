@@ -7,7 +7,7 @@ exit 0
 trap control_c SIGINT
 # Smart_RaspiCPUtweak - for Raspberry Pi 2
 # View Raspberry Pi 2 B CPU Info - Clock speed - Temperatures - Voltage - Overclock you RPi - Change Governor & more
-# Run script with sudo raspicputweak.sh
+# Run script with sudo raspberrypicputweak.sh
 # Warning: by using this software (script), you understand that I can't be held
 # responsible for anything that may happen. If you OC you RPi, I recommend using heatsinks!!!
 
