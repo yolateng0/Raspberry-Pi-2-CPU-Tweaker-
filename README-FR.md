@@ -4,7 +4,7 @@ Tweaker raspberry pi 2
 
 Raspberry Pi 2 CPU Tweaker est un script écrit exclusivement sur Raspberry Pi 2.
 
-Si overclocking du cpu recommander un kit de refroidissement:dissipateurs pour Raspberry Pi 2.
+Si overclocking du cpu, il est recommandé l'usage d'un kit de refroidissement: dissipateurs pour Raspberry Pi 2.
 
 Avec ce script, vous pouvez faire / voir ces choses:
 
